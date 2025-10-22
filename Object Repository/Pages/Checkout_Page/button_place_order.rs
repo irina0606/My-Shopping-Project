@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_place_order</name>
+   <tag></tag>
+   <elementGuidId>a435645c-1b77-46f8-ae36-b7db95796dc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'place_order']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#place_order</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Place order&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>324f6c91-b29f-4282-8a81-086acde1dba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e276bf4e-697e-4159-9c7d-134505e33859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button alt</value>
+      <webElementGuid>91540309-f3f4-4548-8052-2b8ee2dfe5fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>woocommerce_checkout_place_order</value>
+      <webElementGuid>ac130e7b-40d7-48d1-8caf-005198daf322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>place_order</value>
+      <webElementGuid>9b7cbd9f-f4ef-458e-b363-45d7b16154ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Place order</value>
+      <webElementGuid>714d5bdc-fa30-464d-b713-3ce1989c1826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>Place order</value>
+      <webElementGuid>8da0de56-269e-46f8-9aaf-603b38b7bee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Place order</value>
+      <webElementGuid>043d583a-43c3-4853-8b84-7a6b2768c468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-84c4e76fed2992cd111ebd8a294d2c07</value>
+      <webElementGuid>1cb4b6c0-f755-4fd4-9784-b083f4124806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'place_order']</value>
+      <webElementGuid>50a8760a-8e57-4b1a-bf14-b3f16a485b61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'place_order']</value>
+      <webElementGuid>78884e7e-aa59-4584-9b24-afc527884872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'woocommerce_checkout_place_order' and @id = 'place_order' and (text() = 'Place order' or . = 'Place order')]</value>
+      <webElementGuid>8009ec98-fa6d-4757-8e93-4b67fafefede</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

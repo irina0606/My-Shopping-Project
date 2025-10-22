@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_House number and street name</name>
+   <tag></tag>
+   <elementGuidId>aa630df7-1e3d-423b-a375-b189ed4bde83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'billing_address_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;billing_address_1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=textbox[name=&quot;Street address *&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>64d39dcf-acb7-4f6e-b27b-b692aa2638ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>33d6f3b1-5bde-4a65-a301-0eb38b03677f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text </value>
+      <webElementGuid>b80f28f8-525a-485f-8f42-f77afc55353d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>billing_address_1</value>
+      <webElementGuid>7c54a30d-156f-40b8-b9fb-815dd8f9425c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>billing_address_1</value>
+      <webElementGuid>0118a459-56be-48e1-b563-3365eb37ec3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>House number and street name</value>
+      <webElementGuid>c901b346-bdfe-4b46-a862-f485d162c057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>119 Nguyen Thi Thap</value>
+      <webElementGuid>3006d976-0a95-40a2-b24d-d57ebafdde79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>address-line1</value>
+      <webElementGuid>0013d7d2-f94f-4c41-a3e8-0729cc2c2c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>House number and street name</value>
+      <webElementGuid>e6dc3a5f-ecfa-4c73-ad8c-9b0c30f400d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-49631371ce1b3c6cea80e1ccdbd9e79a</value>
+      <webElementGuid>4ef2f319-9be4-43f6-92d7-88d6f3a0ac1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'billing_address_1']</value>
+      <webElementGuid>d1aa8807-9fe6-4f18-9c24-1d5b16679e33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'billing_address_1']</value>
+      <webElementGuid>523cbc3a-56bc-452f-a47e-aa9049473ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'billing_address_1' and @id = 'billing_address_1' and @placeholder = 'House number and street name']</value>
+      <webElementGuid>81f0e032-9161-4fd5-80bc-5dc008bc5642</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

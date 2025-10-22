@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Notes about your order, e.g. special no</name>
+   <tag></tag>
+   <elementGuidId>a817343f-74b8-4832-9fce-c6e4ac12fd04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'order_comments']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#order_comments</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Notes about your order, e.g. special notes for delivery.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>0c385e68-af7c-4dc3-a0ad-416c2fd15f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>order_comments</value>
+      <webElementGuid>2d58d9cf-e1d0-4809-8d82-fd8b0d2f00d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text </value>
+      <webElementGuid>58cf9d02-b079-4ec0-898a-79f653f86b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>order_comments</value>
+      <webElementGuid>1352c4f5-cc96-4e60-a362-de0d0f38d96b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Notes about your order, e.g. special notes for delivery.</value>
+      <webElementGuid>eff6ab04-cdc0-4163-8b7f-9628e508f42b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>69e7e8a9-bb55-4eb7-9bef-73bb38ff2e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cols</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>f4ffa3d5-86ab-4e27-b8ee-bcfb4bd2fce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a7fba5a23a3c509688c38bd58d865ee2</value>
+      <webElementGuid>51c0fad8-0737-443b-b148-f10eec798c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'order_comments']</value>
+      <webElementGuid>96027724-1bb1-4ede-bdd5-1e97911ba0f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'order_comments']</value>
+      <webElementGuid>4e1219c6-84b7-4e76-a128-7aa6c9002c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'order_comments' and @id = 'order_comments' and @placeholder = 'Notes about your order, e.g. special notes for delivery.']</value>
+      <webElementGuid>fb97d89c-b23e-474a-a222-fec00d0f9ca3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

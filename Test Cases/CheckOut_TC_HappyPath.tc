@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckOut_TC_HappyPath</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fdc7c37-32b0-4f46-89af-4cb302872850</testCaseGuid>
+</TestCaseEntity>
