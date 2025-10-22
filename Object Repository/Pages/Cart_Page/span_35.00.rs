@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_35.00</name>
+   <tag></tag>
+   <elementGuidId>84966d1a-2eb4-4623-9f27-3bb907c83c4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.woocommerce-cart-form__cart-item:nth-child(3) [data-title=&quot;Price&quot;] .woocommerce-Price-amount</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' woocommerce-cart-form__cart-item ') and (position() = 3)]//*[@data-title = 'Price']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' woocommerce-Price-amount ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;$35.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1907fe18-eece-49a1-bbf2-2bb8b8546dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>94fbe1c7-9982-44a4-a710-3af2c379f6da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$35.00</value>
+      <webElementGuid>6e0b136a-5ca8-4b73-8a88-55509f934dbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a913b82a6cfc8b1b28bd74c309f8e32f</value>
+      <webElementGuid>3b62c555-ebd2-4da5-afe6-fef6ff71fe97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' woocommerce-cart-form__cart-item ') and (position() = 3)]//*[@data-title = 'Price']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' woocommerce-Price-amount ')]</value>
+      <webElementGuid>534006fa-296e-4f94-82a9-50cb91608175</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' woocommerce-cart-form__cart-item ') and (position() = 3)]//*[@data-title = 'Price']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' woocommerce-Price-amount ')]</value>
+      <webElementGuid>15bd6db7-21d5-49b3-85fe-8422d0c298a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$35.00' or . = '$35.00')]</value>
+      <webElementGuid>d6a9bddc-42a8-4f6b-8e15-faafeae36fe3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

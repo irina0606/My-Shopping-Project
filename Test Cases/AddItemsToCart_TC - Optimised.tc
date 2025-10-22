@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddItemsToCart_TC - Optimised</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9df045e5-6750-41bd-b0c7-136f726e427a</testCaseGuid>
+</TestCaseEntity>

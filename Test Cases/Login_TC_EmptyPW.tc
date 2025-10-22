@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_TC_EmptyPW</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b1416381-2a2d-4482-a1d0-a4d6eeacebe0</testCaseGuid>
+</TestCaseEntity>

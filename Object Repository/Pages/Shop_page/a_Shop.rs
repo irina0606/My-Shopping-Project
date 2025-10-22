@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shop</name>
+   <tag></tag>
+   <elementGuidId>7236f8e5-b305-457e-9f6a-13f9dc32d4eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.page_item:nth-child(5) [href=&quot;https\:\/\/cms\.demo\.katalon\.com\/&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page_item ') and (position() = 5)]//*[@href = 'https://cms.demo.katalon.com/']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Shop&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ea9d402-ea3b-4a69-af01-b0713a690d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/</value>
+      <webElementGuid>bfadfd05-9f45-4ea9-af9a-20bd2960a7fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop</value>
+      <webElementGuid>90088a35-bd08-4ccf-87b4-88bb27403d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3fb48c91a0e5a565fa4846db8573178b</value>
+      <webElementGuid>0db6e5a5-5a3b-4161-9dfb-fefa4b10af40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page_item ') and (position() = 5)]//*[@href = 'https://cms.demo.katalon.com/']</value>
+      <webElementGuid>239b616f-b578-4c73-aa57-1cf3d24a26aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page_item ') and (position() = 5)]//*[@href = 'https://cms.demo.katalon.com/']</value>
+      <webElementGuid>c654d732-4f18-4292-857d-975475f381b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://cms.demo.katalon.com/' and (text() = 'Shop' or . = 'Shop')]</value>
+      <webElementGuid>d795fa1d-5bf0-4ed4-b4c6-9fdbb82a38e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
