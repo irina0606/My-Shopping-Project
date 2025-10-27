@@ -19,8 +19,8 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.testobject.ConditionType as ConditionType
 import java.time.Duration as Duration
 
-// ----------------- CONFIG -----------------
-WebUI.callTestCase(findTestCase('Login_TC_HappyPath'), [:], FailureHandling.STOP_ON_FAILURE)
+
+//The browser open and user is logged in - find in LoginListener
 
 String cartUrl = 'https://cms.demo.katalon.com/cart/'
 

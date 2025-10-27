@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('AddItemsToCart_TC'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('AddItemsToCart_TC_Simple'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Pages/Cart_Page/a_Proceed to checkout'))
 
@@ -70,6 +70,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Pages/Checkout_Page/p_
 WebUI.click(findTestObject('Pages/Shop_page/a_Cart'))
 
 WebUI.verifyElementText(findTestObject('Pages/Cart_Page/p_Your cart is currently empty'), 'Your cart is currently empty.')
+
+WebUI.callTestCase(findTestCase('Logout_TC'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 
