@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>AddItemsToCart_TC - Copy</name>
+   <name>E2E_Shopping_TC</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>82707499-78f7-424a-b203-7201c8d35f3d</testCaseGuid>
+   <testCaseGuid>3c16fd5a-5220-4c85-a542-4c21e9c68ed9</testCaseGuid>
 </TestCaseEntity>

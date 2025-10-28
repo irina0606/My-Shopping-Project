@@ -29,21 +29,11 @@ WebUI.setText(findTestObject('Object Repository/Pages/Checkout_Page/input_Compan
 
 WebUI.click(findTestObject('Object Repository/Pages/Checkout_Page/span_select2-billing_country-container'))
 
-WebUI.click(findTestObject('Object Repository/Pages/Checkout_Page/span_select2-billing_country-container'))
+WebUI.scrollToElement(findTestObject('Pages/Checkout_Page/li_select2-billing_country-result-nobh-VN'), 0)
 
-WebUI.doubleClick(findTestObject('Object Repository/Pages/Checkout_Page/span_select2-billing_country-container'))
-
-WebUI.click(findTestObject('Object Repository/Pages/Checkout_Page/span_select2-billing_country-container'))
-
-WebUI.setText(findTestObject('Object Repository/Pages/Checkout_Page/input_combobox'), '')
-
-WebUI.mouseOver(findTestObject('Object Repository/Pages/Checkout_Page/li_select2-billing_country-result-nobh-VN'))
-
-WebUI.click(findTestObject('Object Repository/Pages/Checkout_Page/li_select2-billing_country-result-nobh-VN'))
+WebUI.click(findTestObject('Pages/Checkout_Page/li_select2-billing_country-result-nobh-VN'))
 
 WebUI.setText(findTestObject('Object Repository/Pages/Checkout_Page/input_House number and street name'), '119 Nguyen Thi Thap')
-
-WebUI.click(findTestObject('Object Repository/Pages/Checkout_Page/input_Postcode _ ZIP(optional)'))
 
 WebUI.setText(findTestObject('Object Repository/Pages/Checkout_Page/input_Postcode _ ZIP(optional)'), '70000')
 

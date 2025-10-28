@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Item_Block</name>
+   <tag></tag>
+   <elementGuidId>f2020d45-30f0-4f98-80c0-7b1b31924a80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(@css, concat(&quot;//li[.//a[contains(@class,&quot; , &quot;'&quot; , &quot;add_to_cart_button&quot; , &quot;'&quot; , &quot;)]]&quot;))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//li[.//a[contains(@class,'add_to_cart_button')]]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[.//a[contains(@class,'add_to_cart_button')]]&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>//li[.//a[contains(@class,'add_to_cart_button')]]</value>
+      <webElementGuid>ac2a67bc-71af-43fa-bb96-7b19a87d2c79</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

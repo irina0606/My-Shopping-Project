@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyCart_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e927fd9-b831-4d1b-85a2-fe619042b98d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04283bdf-406a-4387-892a-b590340c47bb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>04283bdf-406a-4387-892a-b590340c47bb</id>
+      <masked>false</masked>
+      <name>selectedItems</name>
+   </variable>
+</TestCaseEntity>

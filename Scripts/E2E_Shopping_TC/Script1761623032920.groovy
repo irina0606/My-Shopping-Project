@@ -16,7 +16,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import shopping.KW_Login as KW_Login
 
-WebUI.verifyElementText(findTestObject('Object Repository/Pages/MyAccount_Page/h1_My account'), 'My account')
+WebUI.callTestCase(findTestCase('AddItemsToCart_TC - Internal Test Data'), [('selectedItems') : []], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('CheckOut_TC_HappyPath'), [:], FailureHandling.STOP_ON_FAILURE)
 

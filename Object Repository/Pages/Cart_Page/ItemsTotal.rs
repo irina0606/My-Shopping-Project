@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_65.00</name>
+   <name>ItemsTotal</name>
    <tag></tag>
-   <elementGuidId>36123c0d-9655-4488-a244-c7845ba31c3c</elementGuidId>
+   <elementGuidId>ec2672cc-e4ad-4017-b5b4-793a436a5345</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@data-title = 'Subtotal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' woocommerce-Price-amount ')]</value>
+         <value>//*[@data-title = 'Subtotal']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[data-title=&quot;Subtotal&quot;] .woocommerce-Price-amount</value>
+         <value>[data-title=&quot;Subtotal&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;$65.00&quot;i</value>
+         <value>internal:role=cell[name=&quot;Subtotal: $65.00&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,16 +28,16 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>5a3e8f73-3755-4ff8-8cac-88c9b2fbe644</webElementGuid>
+      <value>td</value>
+      <webElementGuid>680fd753-cb15-4110-9919-2e16de2e3b81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>data-title</name>
       <type>Main</type>
-      <value>woocommerce-Price-amount amount</value>
-      <webElementGuid>650bdf75-a8ca-4639-95b5-a684dd4433f6</webElementGuid>
+      <value>Subtotal</value>
+      <webElementGuid>301a7798-5d3a-405a-92e6-068d95b35249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,38 +45,38 @@
       <name>text</name>
       <type>Main</type>
       <value>$65.00</value>
-      <webElementGuid>832bc2b0-c643-4af5-af48-9e3f569e640d</webElementGuid>
+      <webElementGuid>d4e1a077-5162-4d34-97fd-d37f9e87fca5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-d173681342b95e694c7962b820eb13b9</value>
-      <webElementGuid>a7e03abe-a15a-4a7b-8f0a-4d7aa6e32a7b</webElementGuid>
+      <value>md5.v1-3fe9956a811fd5736989b31c892390df</value>
+      <webElementGuid>88c6b41d-3a52-4bc7-95a6-997ee38b3edc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@data-title = 'Subtotal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' woocommerce-Price-amount ')]</value>
-      <webElementGuid>15ad38b1-52ae-4afd-a0ec-fbbe0a2be0c9</webElementGuid>
+      <value>//*[@data-title = 'Subtotal']</value>
+      <webElementGuid>54366dc3-be95-4042-84e3-ec6e4f026299</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@data-title = 'Subtotal']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' woocommerce-Price-amount ')]</value>
-      <webElementGuid>5b9193d4-2746-4b13-9000-48d9f4d1a5f9</webElementGuid>
+      <value>//*[@data-title = 'Subtotal']</value>
+      <webElementGuid>e5c6915f-dd44-417f-ab0d-41ea4c5ac5a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = '$65.00' or . = '$65.00')]</value>
-      <webElementGuid>916bb13f-8ec9-4877-94e2-7be61ec847fa</webElementGuid>
+      <value>//td[(text() = '$65.00' or . = '$65.00')]</value>
+      <webElementGuid>b172bb45-d05f-4949-9054-6f7e52f21c14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

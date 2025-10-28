@@ -16,8 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.common.WebUiCommonHelper as WebUiCommonHelper
 
-WebUI.callTestCase(findTestCase('Login_TC_HappyPath'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.navigateToUrl('https://cms.demo.katalon.com/my-account/')
 
 WebUI.click(findTestObject('Object Repository/Pages/MyAccount_Page/a_Logout'))
 

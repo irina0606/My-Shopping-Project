@@ -55,5 +55,5 @@ WebUI.verifyMatch('$35.00', '$35.00', false)
 
 WebUI.rightClick(findTestObject('Object Repository/Pages/Cart_Page/th_Subtotal'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Pages/Cart_Page/span_65.00'), '$65.00')
+WebUI.verifyElementText(findTestObject('Pages/Cart_Page/ItemsTotal'), '$65.00')
 

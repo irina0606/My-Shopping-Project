@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddItemsToCart_TC - Internal Test Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82707499-78f7-424a-b203-7201c8d35f3d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32d7c8dd-86a3-434d-911e-e402882bb455</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description>Stores selected items</description>
+      <id>32d7c8dd-86a3-434d-911e-e402882bb455</id>
+      <masked>false</masked>
+      <name>selectedItems</name>
+   </variable>
+</TestCaseEntity>

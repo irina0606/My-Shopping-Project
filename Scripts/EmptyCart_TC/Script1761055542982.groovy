@@ -18,6 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.testobject.ConditionType as ConditionType
 import java.time.Duration as Duration
+import com.kms.katalon.core.webui.common.WebUiCommonHelper as WebUiCommonHelper
 
 
 //The browser open and user is logged in - find in LoginListener

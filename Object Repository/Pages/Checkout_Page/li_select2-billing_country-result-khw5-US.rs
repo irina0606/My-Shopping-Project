@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_select2-billing_country-container</name>
+   <name>li_select2-billing_country-result-khw5-US</name>
    <tag></tag>
-   <elementGuidId>5f341178-6f9c-4216-82e1-a22697e2a7a3</elementGuidId>
+   <elementGuidId>606846eb-0441-4fe6-a22a-5515831d197f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'select2-billing_country-container']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@id = 'select2-billing_country-container']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
-         <value>[aria-labelledby=&quot;select2-billing_country-container&quot;] [title=&quot;Vietnam&quot;]</value>
+         <value>[role=&quot;option&quot;]:nth-child(235)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 235)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=textbox[name=&quot;Vietnam&quot;i]</value>
+         <value>internal:role=option[name=&quot;United States (US)&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,87 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>6a34bf7c-bf39-4062-af07-e710ec982e28</webElementGuid>
+      <value>li</value>
+      <webElementGuid>57c9f1f4-b297-4d2d-a51f-f7627e0133f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>select2-selection__rendered</value>
-      <webElementGuid>b1abff1a-ae6d-43ce-a5c8-dbf584e505ef</webElementGuid>
+      <value>select2-results__option</value>
+      <webElementGuid>70c7ac91-ba0e-4c86-ac40-f5dba641c3c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-billing_country-container</value>
-      <webElementGuid>351b53dc-fe25-4e8e-8eed-8aea69af7dfe</webElementGuid>
+      <value>select2-billing_country-result-khw5-US</value>
+      <webElementGuid>f6f96f09-6dab-4666-8230-8069571ac4c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>textbox</value>
-      <webElementGuid>56f92185-c93c-4d19-a39d-fca95f44ed6e</webElementGuid>
+      <value>option</value>
+      <webElementGuid>f9243b74-55f1-4f74-8311-7718863afdbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-readonly</name>
+      <name>data-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e31655b7-3146-4990-8710-27aa14fa3ce2</webElementGuid>
+      <webElementGuid>afe5efdb-413a-450a-a99d-9153b1f4374c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>Vietnam</value>
-      <webElementGuid>40895a9a-8e75-43d0-aca5-e314fc344a09</webElementGuid>
+      <value>-1</value>
+      <webElementGuid>fdbc07ac-37f6-4638-8502-b400b35f3cc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>24e1b5e5-9fbf-4df0-8468-3fd66f84439d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Vietnam</value>
-      <webElementGuid>cdc9d77b-9269-4319-851d-6cd65191a285</webElementGuid>
+      <value>United States (US)</value>
+      <webElementGuid>00856dab-0e91-4956-812f-d60577b85eca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-1a930a625ff9364b31bfea5e9f7cf301</value>
-      <webElementGuid>dc9e5a9d-040b-4006-abf6-f4fbed71d464</webElementGuid>
+      <value>md5.v1-cb3df6564d79560c09932055acdbb78a</value>
+      <webElementGuid>a44db999-527f-44d8-9210-e04815a04dcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'select2-billing_country-container']//*[@title = 'Vietnam']</value>
-      <webElementGuid>de2d655a-65c9-4fc5-b7dc-c2ebe9613b13</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 235)]</value>
+      <webElementGuid>2ff7a04b-b134-4bf7-a964-8f4f7204434e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'select2-billing_country-container']//*[@title = 'Vietnam']</value>
-      <webElementGuid>7cf6f231-a017-4e34-bdac-3f26a75caff8</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 235)]</value>
+      <webElementGuid>8ec6d5b7-2362-4cb3-88b9-089364431d80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'select2-billing_country-container' and @title = 'Vietnam' and (text() = 'Vietnam' or . = 'Vietnam')]</value>
-      <webElementGuid>1cc977f4-7ef1-4ff1-9b01-e7ee0106ca09</webElementGuid>
+      <value>//li[@id = 'select2-billing_country-result-khw5-US' and (text() = 'United States (US)' or . = 'United States (US)')]</value>
+      <webElementGuid>4a449343-585b-49d5-88ea-938b3e3057ff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

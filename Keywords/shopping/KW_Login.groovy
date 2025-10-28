@@ -24,8 +24,6 @@ public class KW_Login {
 	@Keyword
 	def static void loginIntoApplication() {
 
-		WebUI.openBrowser('')
-
 		WebUI.navigateToUrl(GlobalVariable.app_url)
 
 		WebUI.click(findTestObject('Pages/Home_Page/a_My account'))
@@ -35,28 +33,20 @@ public class KW_Login {
 		WebUI.setText(findTestObject('Object Repository/Pages/Login_Page/input_Password_'), GlobalVariable.password)
 
 		WebUI.click(findTestObject('Object Repository/Pages/Login_Page/button_login'))
-
-		WebUI.verifyElementText(findTestObject('Object Repository/Pages/MyAccount_Page/h1_My account'), 'My account')
 	}
 
 
 	@Keyword
 	def static void loginIntoApplication_EmptyPW() {
-
 		WebUI.click(findTestObject('Pages/Home_Page/a_My account'))
-
 		WebUI.setText(findTestObject('Object Repository/Pages/Login_Page/input_Username or email address_'), GlobalVariable.username)
-
 		WebUI.click(findTestObject('Object Repository/Pages/Login_Page/button_login'))
 	}
 
 	@Keyword
 	def static void loginIntoApplication_EmptyUsername() {
-
 		WebUI.click(findTestObject('Pages/Home_Page/a_My account'))
-
 		WebUI.setText(findTestObject('Object Repository/Pages/Login_Page/input_Password_'), GlobalVariable.password)
-
 		WebUI.click(findTestObject('Object Repository/Pages/Login_Page/button_login'))
 	}
 }

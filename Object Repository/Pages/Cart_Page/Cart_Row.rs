@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Cart_Row</name>
+   <tag></tag>
+   <elementGuidId>41832116-cffd-43fc-b7ad-77bd77120ceb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tr[contains(@class,'cart_item')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.cart_item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[contains(@class,'cart_item')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>tr.cart_item</value>
+      <webElementGuid>8b24ce96-e44a-4aa2-819a-e8d1dc89a178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr[contains(@class,'cart_item')]</value>
+      <webElementGuid>74962239-7aa2-49c4-a0e7-e24a04dacbd4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
